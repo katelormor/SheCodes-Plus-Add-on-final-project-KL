@@ -40,6 +40,7 @@ function updateCity(event) {
           "h:mm:ss [<small>]a[</small>]"
         )}</div>
             </div> 
+            <a href="index.html" class="homepage">London & Melbourne</a>
             `;
 }
 
